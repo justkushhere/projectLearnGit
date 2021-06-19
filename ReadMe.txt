@@ -27,6 +27,6 @@ Now there are different paths -
 	-goto github.com
 	-create a new pull request
 	-verify ur changes
-	-commit changes
+	-merge changes, you should see "merged"
 
 Now after this changes should be reflected in both the repo owner and repo members files
