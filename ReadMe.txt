@@ -8,3 +8,5 @@ We got ties in west end too
 -learning git pull
 -learning git push
 
+-final changes made hopefully
+
